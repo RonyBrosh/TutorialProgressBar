@@ -1,7 +1,7 @@
 # TutorialProgressBar
 Custom animated progress bar for wizards and tutorials
 ![alt text](https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/kidoz_demo.gif)
-<img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/kidoz_demo.gif" style="width: 270px;"/>
+<img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/kidoz_demo.gif" width="270" height="480"/>
 
 ###### As used in KIDOZ app
 
