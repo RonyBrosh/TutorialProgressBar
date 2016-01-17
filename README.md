@@ -1,6 +1,6 @@
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/ic_launcher.png" align="left" height="72" width="72" ></a>
 
-TutorialProgressBar
+Tutorial Progress Bar
 =================================
 
 
