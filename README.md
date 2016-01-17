@@ -5,10 +5,8 @@ Tutorial Progress Bar
 **Customizable animated progress bar view for use with app's wizards and tutorials**
 
 > Screenshot taken from [KIDOZ](http://www.kidoz.net) app </br>
-<div>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/kidoz_demo.gif" align="left" height="480" width="270" ></a>
-</div>
-</br>
+</br></br></br></br></br></br></br></br></br></br></br></br>
 123456
 ###Features
 
