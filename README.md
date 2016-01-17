@@ -1,9 +1,8 @@
 # TutorialProgressBar
 Custom animated progress bar for wizards and tutorials
 
+[[https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/kidoz_demo.gif|width=270|height=480]]
 
-
-<img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/kidoz_demo.gif" width="27" height="48">
 
 
 
