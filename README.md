@@ -1,5 +1,11 @@
-#TutorialProgressBar
-<img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/ic_launcher.png" width="100" height="100">
+<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/ic_launcher.png" align="left" height="72" width="72" ></a>
+
+TutorialProgressBar
+=================================
+
+
+
+
 
 Custom animated progress bar for wizards and tutorials
 
