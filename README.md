@@ -20,9 +20,9 @@ Tutorial Progress Bar
 > Diffrent steps length </br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_2.gif" align="left" height="203.3" width="270" ></a>
 
-</br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br></br></br>
 
-> Customize front and background setp colors </br>
+> Customize front and background step colors </br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_3.gif" align="left" height="172.5" width="270" ></a>
 
 
