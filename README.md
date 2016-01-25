@@ -16,7 +16,7 @@ Tutorial Progress Bar
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_1.gif" align="left" height="126.4" width="270" ></a>
 
 > Diffrent steps length </br>
-<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_2.gif" align="left" height="126.4" width="270" ></a>
+<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_2.gif" align="left" height="203.3" width="270" ></a>
 
 
 
