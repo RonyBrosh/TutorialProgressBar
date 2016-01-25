@@ -25,8 +25,8 @@ Tutorial Progress Bar
 > Customize front and background step colors </br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_3.gif" align="left" height="172.5" width="270" ></a>
 
-</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br></br></br>
 
 > Customize progress mask </br>
-<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_4.gif" align="left" height="172.5" width="270" ></a>
+<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_4.gif" align="left" height="366.4" width="270" ></a>
 
