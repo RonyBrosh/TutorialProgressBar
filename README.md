@@ -17,7 +17,7 @@ Tutorial Progress Bar
 
 </br></br></br></br></br></br>
 
-> Diffrent steps length </br>
+> Diffrent steps length (sums to 100%)</br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_2.gif" align="left" height="203.3" width="270" ></a>
 
 
