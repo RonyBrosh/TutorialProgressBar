@@ -15,10 +15,9 @@ Tutorial Progress Bar
 > Classic </br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_1.gif" align="left" height="126.4" width="270" ></a>
 
-</br>
+</br></br></br></br></br></br>
 
 > Diffrent steps length </br>
-</br></br></br></br></br></br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_2.gif" align="left" height="203.3" width="270" ></a>
 
 
