@@ -2,7 +2,7 @@
 
 Tutorial Progress Bar
 =================================
-**Customizable animated progress bar view for use with app's wizards and tutorials**
+**Customizable animated progress bar view for use with app's wizards and tutorials**</br>
 **TutorialProgressBar class and the sample App is compatible with Android 4.0 (API level 14) and above.**
 
 > Screenshot taken from [KIDOZ](https://play.google.com/store/apps/details?id=com.kidoz) app </br>
