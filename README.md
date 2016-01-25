@@ -29,4 +29,4 @@ Tutorial Progress Bar
 
 > Customize progress mask </br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_4.gif" align="left" height="366.4" width="270" ></a>
-
+<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_5.gif" align="left" height="284.6" width="270" ></a>
