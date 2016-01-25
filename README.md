@@ -12,7 +12,8 @@ Tutorial Progress Bar
 
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 ###Features
-
+> Classic </br>
+<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_1.gif" align="left" height="48" width="110" ></a>
 
 
 
