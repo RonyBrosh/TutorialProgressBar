@@ -33,4 +33,4 @@ Tutorial Progress Bar
 
 </br></br></br></br></br></br></br>
 ###Implementation
-Copy the file `TutorialProgressBar.java`
+Copy the file `TutorialProgressBar.java` (you can find it in the root directory of this repository)
