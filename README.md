@@ -35,4 +35,11 @@ Tutorial Progress Bar
 ###Implementation
 1. Add the file `TutorialProgressBar.java` to your project
 2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy
-3. 
+```gradle
+android {
+	//Change this two parameters according to your buildToolsVersion 
+	//You can check which version is installed inside the SDK Manager settings
+ 	compileSdkVersion 23 
+ 	buildToolsVersion "23"
+}
+``` 
