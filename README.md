@@ -36,5 +36,5 @@ Tutorial Progress Bar
 1. Add the file `TutorialProgressBar.java` to your project
 2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy
 ```
-package your.own.package.hierarchy;
+package com.ronybrosh.tutorialprogressbar;
 ``` 
