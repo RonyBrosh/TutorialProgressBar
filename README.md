@@ -35,6 +35,11 @@ Tutorial Progress Bar
 ###Implementation
 1. Add the file `TutorialProgressBar.java` to your project
 2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy
+3. Add the `TutorialProgressBar` to your xml layout
+```xml
+ <your.own.package_name.TutorialProgressBar
+    android:id="@+id/TutorialProgressBar"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+	</your.own.package_name.TutorialProgressBar>
 ```
-package com.ronybrosh.tutorialprogressbar;
-``` 
