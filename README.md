@@ -33,3 +33,4 @@ Tutorial Progress Bar
 
 </br></br></br></br></br></br></br>
 ###Implementation
+Copy the file `TutorialProgressBar.java`
