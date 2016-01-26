@@ -33,6 +33,6 @@ Tutorial Progress Bar
 
 </br></br></br></br></br></br></br>
 ###Implementation
-1. Copy and add the file `TutorialProgressBar.java` to your project
-2. Open the file `TutorialProgressBar.java` and change the package name at the top of the file to a valid package name according to your project package hierarchy
+1. Add the file `TutorialProgressBar.java` to your project
+2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy
 3. 
