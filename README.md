@@ -29,6 +29,6 @@ Tutorial Progress Bar
 
 > Customize progress mask </br>
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_4.gif" align="left" height="183.2" width="135" ></a>
+<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_5.gif" align="left" height="142.3" width="135" ></a>
 
 ###Implementation
-<a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_5.gif" align="left" height="142.3" width="135" ></a>
