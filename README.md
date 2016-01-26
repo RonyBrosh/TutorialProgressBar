@@ -33,4 +33,5 @@ Tutorial Progress Bar
 
 </br></br></br></br></br></br></br>
 ###Implementation
-Copy the file `TutorialProgressBar.java` (you can find it in the root directory of this repository)
+1. Copy and add the file ``TutorialProgressBar.java`` to your project.
+2. 
