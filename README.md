@@ -32,6 +32,11 @@ Tutorial Progress Bar
 <a href="url"><img src="https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/demo_5.gif" align="left" height="142.3" width="135" ></a>
 
 </br></br></br></br></br></br></br>
+## Sample Application
+The sample application (the source is in the repository) has been published onto Google Play for easy access:
+
+[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](http://play.google.com/store/apps/details?id=com.handmark.pulltorefresh.samples)
+
 ###Implementation
 1. Add the file `TutorialProgressBar.java` to your project</br>
 (A good practice will be adding this file under `custom_views` package)
