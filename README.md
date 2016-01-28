@@ -50,4 +50,16 @@ Tutorial Progress Bar
 </your.own.package_name.custom_views.TutorialProgressBar>
 ```
 
-###Controlling
+###Customization
+Create a `TutorialProgressBar` reference to controll it's behavior
+```xml
+<your.own.package_name.custom_views.TutorialProgressBar
+	android:id="@+id/TutorialProgressBar"
+	android:layout_width="100dp"
+	android:layout_height="10dp">
+    	
+</your.own.package_name.custom_views.TutorialProgressBar>
+```java
+TutorialProgressBar tutorialProgressBar = (TutorialProgressBar) findViewById(R.id.TutorialProgressBar);
+```
+
