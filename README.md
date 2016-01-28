@@ -60,6 +60,14 @@ TutorialProgressBar tutorialProgressBar = (TutorialProgressBar) findViewById(R.i
 **/
 tutorialProgressBar.useDefaultMask(true);
 
+/** 
+* Set number of steps
+**/
+tutorialProgressBar.setStepsNumber(5);
 
+/** 
+* Set steps size percentage of a 100% sum
+**/
+tutorialProgressBar.setStepsFillPercentage(new int[]{10, 30, 5, 20, 35});
 ```
 
