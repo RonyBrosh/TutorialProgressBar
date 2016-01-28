@@ -55,5 +55,11 @@ Create a `TutorialProgressBar` reference to controll it's behavior
 ```java
 TutorialProgressBar tutorialProgressBar = (TutorialProgressBar) findViewById(R.id.TutorialProgressBar);
 
+/** 
+* To use circled sides use the default mask
+**/
+tutorialProgressBar.useDefaultMask(true);
+
+
 ```
 
