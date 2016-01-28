@@ -51,7 +51,7 @@ Tutorial Progress Bar
 ```
 
 ###Customization
-Create a `TutorialProgressBar` reference to controll it's behavior</br>
+Create a `TutorialProgressBar` reference to controll it's behavior.</br>
 Please make sure to set an equal size of parameters, for example if you set the number of steps to be `5` you should also set `5` fill colors if you choose to customize the fill colors as well.
 
 ```java
@@ -71,5 +71,12 @@ tutorialProgressBar.setStepsNumber(5);
 * Set steps size percentage of a 100% sum
 **/
 tutorialProgressBar.setStepsFillPercentage(new int[]{10, 30, 5, 20, 35});
+
+/** 
+* Set empty and fill colors
+**/
+tutorialProgressBar.setEmptyStepColors(new int[]{Color.parseColor("#1f2a55"), Color.parseColor("#451f55")});
+tutorialProgressBar.setFillStepColors(new int[]{Color.parseColor("#2541b0"), Color.parseColor("#761f9a")});
+
 ```
 
