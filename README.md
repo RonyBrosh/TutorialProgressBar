@@ -34,8 +34,10 @@ Tutorial Progress Bar
 </br></br></br></br></br></br></br>
 ###Implementation
 1. Add the file `TutorialProgressBar.java` to your project</br>
-(A good practice will be adding this file under `custom_views` package)</br>
-2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy
+(A good practice will be adding this file under `custom_views` package)</br></br>
+
+2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy</br></br>
+
 3. Add the `TutorialProgressBar` to your xml layout
 ```xml
 <your.own.package_name.TutorialProgressBar
