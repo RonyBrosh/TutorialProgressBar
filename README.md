@@ -78,5 +78,11 @@ tutorialProgressBar.setStepsFillPercentage(new int[]{10, 30, 5, 20, 35});
 tutorialProgressBar.setEmptyStepColors(new int[]{Color.parseColor("#1f2a55"), Color.parseColor("#451f55")});
 tutorialProgressBar.setFillStepColors(new int[]{Color.parseColor("#2541b0"), Color.parseColor("#761f9a")});
 
+/** 
+* Set custom mask
+* The final view size will be based on the given mask bitmap size. 
+**/
+tutorialProgressBar.setMask(BitmapFactory.decodeResource(getResources(), R.drawable.custom_mask));
+
 ```
 
