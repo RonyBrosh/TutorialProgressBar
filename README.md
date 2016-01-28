@@ -51,7 +51,9 @@ Tutorial Progress Bar
 ```
 
 ###Customization
-Create a `TutorialProgressBar` reference to controll it's behavior
+Create a `TutorialProgressBar` reference to controll it's behavior</br>
+Please make sure to set an equal size of parameters, for example if you set the number of steps to be `5` you should also set `5` fill colors if you choose to customize the fill colors as well.
+
 ```java
 TutorialProgressBar tutorialProgressBar = (TutorialProgressBar) findViewById(R.id.TutorialProgressBar);
 
