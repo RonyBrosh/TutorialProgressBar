@@ -42,10 +42,12 @@ Tutorial Progress Bar
 (You can choose your `TutorialProgressBar` width and height or you can `wrap_content` if you're using a bitmap mask)
 
 ```xml
-<your.own.package_name.TutorialProgressBar
+<your.own.package_name.custom_views.TutorialProgressBar
 	android:id="@+id/TutorialProgressBar"
 	android:layout_width="100dp"
 	android:layout_height="10dp">
     	
-</your.own.package_name.TutorialProgressBar>
+</your.own.package_name.custom_views.TutorialProgressBar>
 ```
+
+###Controlling
