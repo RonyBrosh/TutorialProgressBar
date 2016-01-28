@@ -36,7 +36,7 @@ Tutorial Progress Bar
 ## Sample Application
 The sample application (the source is in the repository) has been published onto Google Play for easy access:
 
-[![Get it on Google Play](http://www.android.com/images/brand/get_it_on_play_logo_small.png)](http://play.google.com/store/apps/details?id=com.ronybrosh.tutorialprogressbar)
+[![Get it on Google Play](https://github.com/RonyBrosh/TutorialProgressBar/blob/master/Graphics/get_it_on_play_logo_small.png)](http://play.google.com/store/apps/details?id=com.ronybrosh.tutorialprogressbar)
 
 ###Implementation
 1. Add the file `TutorialProgressBar.java` to your project</br>
