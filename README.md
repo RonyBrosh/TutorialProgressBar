@@ -38,7 +38,7 @@ Tutorial Progress Bar
 
 2. Open the file `TutorialProgressBar.java` and at the top of the file change the package name to a valid package name according to your project package hierarchy
 
-3. Add the `TutorialProgressBar` to your xml layout
+3. Add the `TutorialProgressBar` to your xml layout</br>
 (You can choose your `TutorialProgressBar` width and height or you can `wrap_content` if you're using a bitmap mask)
 
 ```xml
