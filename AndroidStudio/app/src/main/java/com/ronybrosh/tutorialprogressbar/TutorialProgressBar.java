@@ -11,6 +11,7 @@ import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
 import android.graphics.Rect;
+import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.View;
@@ -37,9 +38,9 @@ public class TutorialProgressBar extends View
     // Drawing values
     private int[] mEmptyStepColors;
     private int[] mFillStepColors;
-    private int[] mStepsFillPercentage;
-    private int[] mStepsWidth;
-    private Rect[] mRectArray;
+    private float[] mStepsFillPercentage;
+    private float[] mStepsWidth;
+    private RectF[] mRectArray;
 
     // Drawing objects and parameters
     private int mViewWidth;
@@ -107,7 +108,7 @@ public class TutorialProgressBar extends View
      *
      * @param stepsFillPercentage
      */
-    public void setStepsFillPercentage(int[] stepsFillPercentage)
+    public void setStepsFillPercentage(float[] stepsFillPercentage)
     {
         mStepsFillPercentage = stepsFillPercentage;
     }
@@ -366,11 +367,11 @@ public class TutorialProgressBar extends View
         {
             // Set to default.
             int percentageSum = 0;
-            mStepsFillPercentage = new int[mStepsNumber];
+            mStepsFillPercentage = new float[mStepsNumber];
             for (int stepIndex = 0; stepIndex < mStepsNumber; stepIndex++)
             {
-                percentageSum += 100 / mStepsNumber;
-                mStepsFillPercentage[stepIndex] = 100 / mStepsNumber;
+                percentageSum += 100f / mStepsNumber;
+                mStepsFillPercentage[stepIndex] = 100f / mStepsNumber;
             }
 
             // Add the extra percentage to the step in the middle.
@@ -379,7 +380,7 @@ public class TutorialProgressBar extends View
         else
         {
             int percentageSum = 0;
-            for (int nextPercentage : mStepsFillPercentage)
+            for (float nextPercentage : mStepsFillPercentage)
             {
                 percentageSum += nextPercentage;
             }
@@ -387,11 +388,11 @@ public class TutorialProgressBar extends View
             {
                 // Set to default.
                 percentageSum = 0;
-                mStepsFillPercentage = new int[mStepsNumber];
+                mStepsFillPercentage = new float[mStepsNumber];
                 for (int stepIndex = 0; stepIndex < mStepsNumber; stepIndex++)
                 {
-                    percentageSum += 100 / mStepsNumber;
-                    mStepsFillPercentage[stepIndex] = 100 / mStepsNumber;
+                    percentageSum += 100f / mStepsNumber;
+                    mStepsFillPercentage[stepIndex] = 100f / mStepsNumber;
                 }
                 // Add the extra percentage to the step in the middle.
                 mStepsFillPercentage[mStepsNumber / 2] += (100 - percentageSum);
@@ -399,8 +400,8 @@ public class TutorialProgressBar extends View
         }
 
         // 5. Init steps width and rectangles.
-        mRectArray = new Rect[mStepsNumber];
-        mStepsWidth = new int[mStepsNumber];
+        mRectArray = new RectF[mStepsNumber];
+        mStepsWidth = new float[mStepsNumber];
         int widthSum = 0;
         for (int stepIndex = 0; stepIndex < mStepsNumber; stepIndex++)
         {
@@ -412,11 +413,11 @@ public class TutorialProgressBar extends View
         {
             if (stepIndex == 0)
             {
-                mRectArray[stepIndex] = new Rect(0, 0, mStepsWidth[stepIndex], mViewHeight);
+                mRectArray[stepIndex] = new RectF(0, 0, mStepsWidth[stepIndex], mViewHeight);
             }
             else
             {
-                mRectArray[stepIndex] = new Rect(mRectArray[stepIndex - 1].right, 0, mRectArray[stepIndex - 1].right + mStepsWidth[stepIndex], mViewHeight);
+                mRectArray[stepIndex] = new RectF(mRectArray[stepIndex - 1].right, 0, mRectArray[stepIndex - 1].right + mStepsWidth[stepIndex], mViewHeight);
             }
         }
 
